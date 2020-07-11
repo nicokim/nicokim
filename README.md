@@ -17,13 +17,12 @@
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB, Cassandra and Redis**
 - Container technologies like **Docker**
 
-
 ## :book: - Learning
-- Mobile development: Flutter
-- Front-end development: React
-- Programming Languages: Go, Elixir
-- Container technologies: Kubernetes, OpenShift 4
+- Mobile development: **Flutter**
+- Front-end development: **React**
+- Programming Languages: **Go, Elixir**
+- Container technologies: **Kubernetes, OpenShift 4**
 
 ## 📫 - Contact Me
 - Name: Nicolas Kim
-- LinkedIn: [https://www.linkedin.com/in/nicolas-kim-bb1383185/](https://www.linkedin.com/in/nicolas-kim-bb1383185/)
+- [LinkedIn](https://www.linkedin.com/in/nicolas-kim-bb1383185/)
