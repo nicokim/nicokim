@@ -22,6 +22,7 @@
 - Front-end development: **React**
 - Programming Languages: **Go, Elixir**
 - Container technologies: **Kubernetes, OpenShift 4**
+- Game development: **Unity**
 
 ## 📫 - Contact Me
 - Name: Nicolas Kim
