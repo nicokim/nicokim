@@ -8,7 +8,6 @@
 - I keep learning new things everyday. 
 
 ## 👷 - Currently working on
-- **My thesis:** Gamification in project management
 - E-commerce website for mobile phone cases
 
 ## ⚡ - Technologies
