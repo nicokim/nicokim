@@ -19,8 +19,8 @@
 ## :book: - Learning
 - Mobile development: **Flutter**
 - Front-end development: **React**
-- Programming Languages: **Go, Elixir**
-- Container technologies: **Kubernetes, OpenShift 4**
+- Programming Languages: **Rust**
+- Container technologies: **OpenShift 4, Helm, FluxCD**
 - Game development: **Unity**
 
 ## 📫 - Contact Me
