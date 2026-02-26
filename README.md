@@ -3,32 +3,27 @@
 </p>
 
 ## 🧐 - About
-- I am System Engineer.
-- I ❤️ software development.
-- I keep learning new things everyday. 
+- Experienced **Backend & AI Engineer** specialized in designing and deploying scalable AI-driven systems.
+- I bridge the gap between robust backend architecture and cutting-edge Artificial Intelligence.
+- Expert in building high-performance microservices, currently focused on integrating LLMs, RAG pipelines, and AI agents into production-ready environments.
+- Committed to writing clean, reliable code that turns complex data into actionable, automated solutions.
 
 ## 👷 - Currently working on
-- DevOps Engineer in Prodigio Chile.
-- Creating a character with artificial intelligence.
+- **Artificial Intelligence Engineer** at MODO 📱
 
-## ⚡ - Technologies
-- Front-end development using **Angular**
-- Backend development using **Node, Express, TypeScript, Nest.js**
-- Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB, Cassandra and Redis**
-- Container technologies like **Docker**
-- Kubernetes package manager with **Helm**
-- Container orchestration with **Kubernetes**
-- Cloud Services with **GCP**
-- Continous Integration tools like **Jenkins, Gitlab CI, Github Actions**
+## 🌍 - Open Source Projects
+- **[PyAudioCast](https://github.com/nicokim/PyAudioCast)**: Cross-platform audio output library for Python, powered by Rust/CPAL. Stream audio to any device including virtual sinks.
+- **[indextts2-inference](https://github.com/nicokim/indextts2-inference)**: Minimal pip package for IndexTTS2 inference. Wraps the official IndexTTS2 repo, stripped down to only what's needed for inference.
 
-## :book: - Learning
-- Mobile development: **Flutter**
-- Front-end development: **React**
-- Programming Languages: **Rust**
-- Container technologies: **OpenShift 4, FluxCD**
-- Game development: **Unity**
+## ⚡ - Technologies & Tools
+- **AI Stack:** Python, LLMs, RAG Pipelines, AI Agents.
+- **Backend:** Node.js, Go, TypeScript.
+- **Cloud & DevOps:** AWS, Docker, Kubernetes.
+
+## 📖 - Learning
+- Advancing my AI foundations through **DeepLearning.AI** (recently certified in Linear Algebra for Machine Learning and Data Science).
+- **Languages:** Rust, Go (Microservices).
 
 ## 📫 - Contact Me
-- Name: Nicolas Kim
-- [LinkedIn](https://www.linkedin.com/in/nicolas-kim-bb1383185/)
-- [Website](https://nicolas.ar)
+- **Name:** Nicolas Kim
+- **LinkedIn:** [nico-kim](https://www.linkedin.com/in/nico-kim/)
